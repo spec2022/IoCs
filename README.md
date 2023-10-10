@@ -1,5 +1,4 @@
 ## IoCs
-(https://www.virustotal.com/gui/user/CarlosCabal/collections)
 
 #### DarkGate
 https://www.virustotal.com/gui/collection/70be2fe8745869dcab77366a0bdeff190b753b38d005f0b04c19214b4b39b272/iocs
@@ -12,3 +11,13 @@ https://www.virustotal.com/gui/collection/f6cb8976174a8e375963a0821b3a0a19205d9d
 
 #### MysticStealer
 https://www.virustotal.com/gui/collection/ddfd0a3e2f60a814c63cd4b32bc4e4d01b663975b0fd85a1f3a2b95bb400de1b/iocs
+
+
+
+
+## Users/Collections: 
+
+https://www.virustotal.com/gui/user/AlienVaultOTX/collections
+https://www.virustotal.com/gui/user/patricksvgrapi/collections
+https://www.virustotal.com/gui/user/NeikiAnalytics/collections
+https://www.virustotal.com/gui/user/CarlosCabal/collections
