@@ -18,6 +18,9 @@ https://www.virustotal.com/gui/collection/ddfd0a3e2f60a814c63cd4b32bc4e4d01b6639
 ## Users/Collections: 
 
 https://www.virustotal.com/gui/user/AlienVaultOTX/collections
+
 https://www.virustotal.com/gui/user/patricksvgrapi/collections
+
 https://www.virustotal.com/gui/user/NeikiAnalytics/collections
+
 https://www.virustotal.com/gui/user/CarlosCabal/collections
