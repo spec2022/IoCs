@@ -9,3 +9,6 @@ https://www.virustotal.com/gui/collection/eaa05c79e9cf7f66b732847d1e8f41b24f17e2
 
 #### Redline
 https://www.virustotal.com/gui/collection/f6cb8976174a8e375963a0821b3a0a19205d9d739b4522be61e8408eaf5534d0/iocs
+
+#### MysticStealer
+https://www.virustotal.com/gui/collection/ddfd0a3e2f60a814c63cd4b32bc4e4d01b663975b0fd85a1f3a2b95bb400de1b/iocs
