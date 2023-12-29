@@ -12,6 +12,10 @@ https://www.virustotal.com/gui/collection/f6cb8976174a8e375963a0821b3a0a19205d9d
 #### MysticStealer
 https://www.virustotal.com/gui/collection/ddfd0a3e2f60a814c63cd4b32bc4e4d01b663975b0fd85a1f3a2b95bb400de1b/iocs
 
+#### Wipers
+https://www.crowdstrike.com/blog/the-anatomy-of-wiper-malware-part-3/
+https://blog.pwn.al/albania/apt/state/actor/hacking/cyberattack/homelandjustice/2023/12/28/An-analysis-of-the-malware-used-in-the-recent-attacks-targeting-Albania.html
+
 
 
 
